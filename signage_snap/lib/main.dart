@@ -12,7 +12,7 @@ class SignageRaceeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Signage Racee',
+      title: 'Signage ',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),

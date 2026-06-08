@@ -37,7 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Signage Racee"),
+        title: const Text("SigArt Advertisers"),
       ),
       body: ListView.builder(
         itemCount: projects.length,
